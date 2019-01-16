@@ -1,0 +1,11 @@
+# basic options, comment
+title: XY
+author: YU Xiang
+email: your-email@domain.com
+description: web page test
+twitter_username: jekyllrb
+github_username:  xyxiangyu
+
+# Build settings
+markdown: kramdown
+theme: minima
