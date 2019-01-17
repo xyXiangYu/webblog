@@ -1,10 +1,11 @@
 # basic options
-title: Awesome Blog
-author: Cool Dude
-email: your-email@domain.com
+title: Yu Xiang Homepage
+author: Yu Xiang
+email: shawnxiangyu@yahoo.com
 description: "A wonderful site about awesome blogging"
-twitter_username: jekyllrb
-github_username:  jekyll
+
+{% include index.html %}
+
 
 # Build settings
 markdown: kramdown
