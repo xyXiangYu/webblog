@@ -4,7 +4,6 @@ author: Yu Xiang
 email: shawnxiangyu@yahoo.com
 description: "A wonderful site about awesome blogging"
 
-{% include index.html %}
 
 
 # Build settings
