@@ -8,4 +8,4 @@ description: "A wonderful site about awesome blogging"
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: 
