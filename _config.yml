@@ -1,10 +1,10 @@
-# basic options, comment
-title: XY
-author: YU Xiang
+# basic options
+title: Awesome Blog
+author: Cool Dude
 email: your-email@domain.com
-description: web page test
+description: "A wonderful site about awesome blogging"
 twitter_username: jekyllrb
-github_username:  xyxiangyu
+github_username:  jekyll
 
 # Build settings
 markdown: kramdown
