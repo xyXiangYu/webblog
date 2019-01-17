@@ -13,3 +13,7 @@ Reasons:
 ## Other thoughts
 
 This is great.
+
+[text](https://collectionbuilder.github.io/collectionbuilder-gh/)
+
+![collage of 9 dogs](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Collage_of_Nine_Dogs.jpg/546px-Collage_of_Nine_Dogs.jpg)
